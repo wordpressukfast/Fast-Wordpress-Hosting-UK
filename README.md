@@ -8,7 +8,7 @@ It is likely that you have heard of WordPress if you are thinking about creating
 
 # Speed is of the essence
 
-A web host's speed matters a lot when it comes to hosting a WordPress site. This is particularly true if there is a lot of traffic. Having a fast loading page will provide better user experience for your visitors, and that will result in higher conversion rates. Having a <A HREF=”https://veryfasthosting.co.uk/fast-wordpress-hosting/”>fastest woocommerce hosting</A> is key to making your website a success, which is why it is so necessary. It is a good rule of thumb that if your website takes more than three seconds to load, visitors are likely to give up and go somewhere else to find what they need (which means that you may lose customers). Whenever choosing a hosting provider, you should ensure that they have servers that are capable of providing current industry standards of speed.
+A web host's speed matters a lot when it comes to hosting a WordPress site. This is particularly true if there is a lot of traffic. Having a fast loading page will provide better user experience for your visitors, and that will result in higher conversion rates. Having a <A HREF="https://veryfasthosting.co.uk/fast-wordpress-hosting/">fastest woocommerce hosting</A> is key to making your website a success, which is why it is so necessary. It is a good rule of thumb that if your website takes more than three seconds to load, visitors are likely to give up and go somewhere else to find what they need (which means that you may lose customers). Whenever choosing a hosting provider, you should ensure that they have servers that are capable of providing current industry standards of speed.
 
 # There is no substitute for reliability
 
@@ -16,7 +16,7 @@ It is important to keep in mind that speed is not the only factor to consider wh
 
 # Aspects of security
 
-You should also make sure that you don't overlook security features and customer support when choosing the best <A HREF=”https://veryfasthosting.co.uk/blog/find-the-fastest-uk-wordpress-hosting-today/”>fastest UK WordPress hosting</A> provider based on your requirements. Despite the fact that most providers will offer a certain level of security protection against malicious attacks and other threats, not all providers may be equally protected when it comes to security threats. Before you make your decision, you should check the policies of each provider carefully so that you are aware of exactly what kind of protection they provide against potential threats such as hacking attempts and viruses infecting your data files hosted on their servers.
+You should also make sure that you don't overlook security features and customer support when choosing the best <A HREF="https://veryfasthosting.co.uk/blog/find-the-fastest-uk-wordpress-hosting-today/">fastest UK WordPress hosting</A> provider based on your requirements. Despite the fact that most providers will offer a certain level of security protection against malicious attacks and other threats, not all providers may be equally protected when it comes to security threats. Before you make your decision, you should check the policies of each provider carefully so that you are aware of exactly what kind of protection they provide against potential threats such as hacking attempts and viruses infecting your data files hosted on their servers.
 
 # Choose the hosting service that will help you achieve your goals
 
